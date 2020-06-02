@@ -7,6 +7,7 @@ https://github.com/SteamDatabase/GameTracking-Dota2/raw/master/Protobufs/dota_gc
 https://github.com/SteamDatabase/GameTracking-Dota2/raw/master/Protobufs/dota_gcmessages_client_chat.proto
 https://github.com/SteamDatabase/GameTracking-Dota2/raw/master/Protobufs/dota_gcmessages_client_fantasy.proto
 https://github.com/SteamDatabase/GameTracking-Dota2/raw/master/Protobufs/dota_gcmessages_client_guild.proto
+https://github.com/SteamDatabase/GameTracking-Dota2/raw/master/Protobufs/dota_gcmessages_client_guild_events.proto
 https://github.com/SteamDatabase/GameTracking-Dota2/raw/master/Protobufs/dota_gcmessages_client_match_management.proto
 https://github.com/SteamDatabase/GameTracking-Dota2/raw/master/Protobufs/dota_gcmessages_client_team.proto
 https://github.com/SteamDatabase/GameTracking-Dota2/raw/master/Protobufs/dota_gcmessages_client_tournament.proto
